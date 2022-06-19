@@ -1,0 +1,24 @@
+{
+  "name": "chainlink-dash",
+  "version": "0.0.1",
+  "description": "Chainlink node setup tool for Dash Platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayoreee/chainlink-dash.git"
+  },
+  "keywords": [
+    "Chainlink",
+    "Dash",
+    "Platform"
+  ],
+  "author": "mayoreee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayoreee/chainlink-dash/issues"
+  },
+  "homepage": "https://github.com/mayoreee/chainlink-dash#readme"
+}
