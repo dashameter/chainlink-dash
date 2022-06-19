@@ -4,7 +4,9 @@
   "description": "Chainlink node setup tool for Dash Platform",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "setup": "./setup.sh && npm run start",
+    "start": "docker compose -f ./.chainlink-rinkeby/docker-compose.yaml up -d",
+    "stop": "docker compose -f ./.chainlink-rinkeby/docker-compose.yaml down"
   },
   "repository": {
     "type": "git",
