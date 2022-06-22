@@ -21,7 +21,7 @@ cd chainlink-dash
 npm run setup
 ```
 
-Note: To stop the node, simply run `npm run stop`. Re-start the node with `npm run start`.
+Note: To stop the node, simply use `npm run stop`. Restart the node with `npm run start`.
 
 
 
