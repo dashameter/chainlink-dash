@@ -9,7 +9,7 @@ Chainlink node setup tool for Dash Platform
 - docker v20+
 - docker-compose v1.29+
 
-#### Setup Chainlink Node
+### Setup Chainlink Node
 
 ```
 git clone https://github.com/mayoreee/chainlink-dash.git
@@ -26,13 +26,12 @@ Note: To stop the node, simply use `npm run stop`. Restart the node with `npm ru
 
 ## Connecting to Dash Platform
 
-#### Login to Chainlink Operator
-After setting up the node as described above, open `localhost:6688` in your browser.
-You should see the Chainlink Operator login page.
+### Step 1: Login to Chainlink Operator
+After setting up the node as described above, open `localhost:6688` in your browser. You should see the Chainlink Operator login page.
 
-<Insert login page image here>
+<img width="527" alt="Screenshot 2022-06-22 at 18 45 25" src="https://user-images.githubusercontent.com/15247893/175103190-335d11ac-ec5f-4e9a-8aff-36ad285d4a32.png">
 
-Login in with the test info belwo:
+Login in with the test info below:
 ```
 Email: email@example.com
 Password: 123456789
