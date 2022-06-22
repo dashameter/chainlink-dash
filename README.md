@@ -37,6 +37,11 @@ Email: email@example.com
 Password: 123456789
 ```
 
+### Step 2: Fund Chainlink Operator
+Once you've signed in, grab the operator's address (see screenshot below) and fund it with ETH (Rinkeby testnet). You can get testnet ETH from a Rinkeby faucet [here](https://faucets.chain.link/rinkeby)
+
+
+
 
 
 
