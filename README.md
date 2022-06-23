@@ -6,8 +6,8 @@ Chainlink node setup tool for Dash Platform data
 
 #### Requirements
 - node v16+
-- docker v20+
-- docker-compose v1.29+
+- docker v20.10.12+
+- docker-compose v1.29.2+
 
 ### Setup Chainlink Node
 
