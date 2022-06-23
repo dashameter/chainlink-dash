@@ -13,6 +13,7 @@ services:
       - .env
     depends_on:
       - pg_chainlink
+    restart: unless-stopped
     ports:
       - "6688:6688"
     volumes:
